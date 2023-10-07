@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ## 📊 Junior Data Analyst | 📈 Passionate about Data | 🌱 Constantly Improving
 
