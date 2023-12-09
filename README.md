@@ -11,7 +11,7 @@
 
 🌟 Let's connect and learn from each other! Feel free to reach out if you're interested in data, analytics, or just want to chat about the latest trends in the field. Together, we can unlock the potential of data and create meaningful insights.
 
-📬 Reach out to me at pelin529@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/pelin-ozden/)!
+📬 Reach out to me at pelin529@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/pelin-ozden/)!
 
 <!--
 **pelinozden/pelinozden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
