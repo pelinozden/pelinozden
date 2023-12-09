@@ -3,8 +3,14 @@
 
 <h1 align="left">Hi 👋, I'm Pelin!</h1>
 <h3 align="left">A junior data analyst/data scientist with a burning passion for all things data. I believe that data has the power to transform businesses, drive decision-making, and make the world a better place. Currently honing my skills in Python, SQL, and exploring the world of machine learning.</h3>
+<h3 align="left">🤖Expertise</h3>
 
------------------------------------------------------------------------------------------------
+- **Python:** Proficient in leveraging Python for various data science tasks.
+- **SQL:** Experienced in querying and managing databases.
+- **Power BI:** Skilled in creating insightful visualizations for data analysis.
+- **Data Analysis and EDA:** Experienced in performing data analysis and Exploratory Data Analysis (EDA).
+- **Web Scraping:** Enthusiastic about extracting valuable insights from the web.
+- **Machine Learning:** Currently learning and exploring the fascinating world of machine learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pelinozden&label=Profile%20views&color=0e75b6&style=flat" alt="pelinozden" /> </p>
 
