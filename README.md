@@ -10,7 +10,12 @@
 
 ###
 
-**Python:** Proficient in leveraging Python for various data science tasks.<br>- **SQL:** Experienced in querying and managing databases.<br>- **Power BI:** Skilled in creating insightful visualizations for data analysis.<br>- **Data Analysis and EDA:** Experienced in performing data analysis and Exploratory Data Analysis (EDA).<br>- **Web Scraping:** Enthusiastic about extracting valuable insights from the web.<br>- **Machine Learning:** Currently learning and exploring the fascinating world of machine learning.
+* **Python:** Proficient in leveraging Python for various data science tasks.
+* **SQL:** Experienced in querying and managing databases.
+* **Power BI:** Skilled in creating insightful visualizations for data analysis.
+* **Data Analysis and EDA:** Experienced in performing data analysis and Exploratory Data Analysis (EDA).
+* **Web Scraping:** Enthusiastic about extracting valuable insights from the web.
+* **Machine Learning:** Currently learning and exploring the fascinating world of machine learning.
 
 ###
 
@@ -39,3 +44,20 @@
 </div>
 
 ###
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pelin-ozden/"><img width="100px" height="25px" src="https://img.shields.io/badge/Pelin_Özden-0077B5?logo=linkedin"/></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01a60f23fc8c1bccde?viewMode=1"><img width="100px" height="25px" src="https://img.shields.io/badge/Pelin_Özden-4fab4a?logo=upwork&logoColor=white"/></a>
+</p>
+
+###
+
+## ⚙️ GitHub Analytics
+
+<a href="http://www.github.com/pelinozden"><img src="https://github-readme-stats.vercel.app/api?username=pelinozden&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pelinozden's GitHub stats" /></a>
+
+<a href="http://www.github.com/pelinozden"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pelinozden&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/pelinozden" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pelinozden&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+###
+
