@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- **Python:** Proficient in leveraging Python for various data science tasks.<br>- **SQL:** Experienced in querying and managing databases.<br>- **Power BI:** Skilled in creating insightful visualizations for data analysis.<br>- **Data Analysis and EDA:** Experienced in performing data analysis and Exploratory Data Analysis (EDA).<br>- **Web Scraping:** Enthusiastic about extracting valuable insights from the web.<br>- **Machine Learning:** Currently learning and exploring the fascinating world of machine learning.</p>
+**Python:** Proficient in leveraging Python for various data science tasks.<br>- **SQL:** Experienced in querying and managing databases.<br>- **Power BI:** Skilled in creating insightful visualizations for data analysis.<br>- **Data Analysis and EDA:** Experienced in performing data analysis and Exploratory Data Analysis (EDA).<br>- **Web Scraping:** Enthusiastic about extracting valuable insights from the web.<br>- **Machine Learning:** Currently learning and exploring the fascinating world of machine learning.
 
 ###
 
