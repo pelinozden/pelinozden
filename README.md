@@ -45,6 +45,8 @@
 
 ###
 
+## 📨 Contact with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/pelin-ozden/"><img width="100px" height="25px" src="https://img.shields.io/badge/Pelin_Özden-0077B5?logo=linkedin"/></a>&nbsp;
   <a href="https://www.upwork.com/freelancers/~01a60f23fc8c1bccde?viewMode=1"><img width="100px" height="25px" src="https://img.shields.io/badge/Pelin_Özden-4fab4a?logo=upwork&logoColor=white"/></a>
