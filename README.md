@@ -1,8 +1,10 @@
 
 ## 📊 Junior Data Analyst/Data Scientist | 📈 Passionate about Data | 🌱 Constantly Improving
 
-<h1 align="center">Hi 👋, I'm Pelin!</h1>
+<h1 align="left">Hi 👋, I'm Pelin!</h1>
 <h3 align="left">A junior data analyst/data scientist with a burning passion for all things data. I believe that data has the power to transform businesses, drive decision-making, and make the world a better place. Currently honing my skills in Python, SQL, and exploring the world of machine learning.</h3>
+
+-----------------------------------------------------------------------------------------------
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pelinozden&label=Profile%20views&color=0e75b6&style=flat" alt="pelinozden" /> </p>
 
